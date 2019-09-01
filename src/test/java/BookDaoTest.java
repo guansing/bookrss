@@ -8,10 +8,10 @@ public class BookDaoTest {
     public static void main(String[] args)
     {
         //1.测试findBookAll()
-        //findBookAll();
+        findBookAll();
 
         //2.测试findBookByName()
-        //findBookByName();
+        findBookByName();
     }
 
     static void findBookByName(){
